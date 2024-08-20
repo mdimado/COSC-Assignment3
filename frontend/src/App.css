@@ -1,0 +1,24 @@
+
+
+.home{
+  background-image: url(./assets/bbblurry.svg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 90vh;
+}
+
+.home{
+  display: flex;
+  align-items: center;
+  padding: 0px 100px;
+  justify-content: space-around;
+}
+
+.hero-text h1{
+  font-size: 60px;
+}
+
+.hero-img img{
+  width: 90%;
+  height: auto;
+}
